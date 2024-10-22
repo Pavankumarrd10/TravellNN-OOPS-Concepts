@@ -2,6 +2,10 @@
 ## Overview
 The TravelInn project is a console-based application built in C++ to simulate a travel booking system. It employs core Object-Oriented Programming (OOP) principles such as classes, inheritance, polymorphism, and exception handling. The project allows users to register as customers or admins, update their profiles, and generate booking receipts. Admins have the ability to manage bookings and notifications, while customers can receive updates and access their travel information.
 
+## Flowchart
+![Screenshot (5)](https://github.com/user-attachments/assets/2641207e-ba61-42e9-b58b-2efb15138a11)
+
+
 ## Features
 ### User Registration & Profile Management:
 Two types of users: 
